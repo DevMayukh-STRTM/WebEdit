@@ -1,0 +1,14 @@
+{
+  "name": "@webedit/core",
+  "version": "1.0.0",
+  "description": "The core library for the WebEdit framework, plugins and services to work properly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "WebEdit"
+  ],
+  "author": "Mayukh Chakraborty",
+  "license": "MIT"
+}
