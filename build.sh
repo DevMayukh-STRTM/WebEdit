@@ -1,4 +1,4 @@
 # This script builds all the package at once
-./core/build.sh
-./editor/build.sh
-./builtins/build.sh
+./core/build.js
+./editor/build.js
+./builtins/build.js
